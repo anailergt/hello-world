@@ -1,4 +1,5 @@
 # hello-world
 Learning how GitHub works.
 
-I am making changes! This is cool!
+I am making changes!
+More changes! Yay!
